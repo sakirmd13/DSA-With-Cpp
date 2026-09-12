@@ -11,6 +11,8 @@ int main()
     cout<<(2<4)<<endl;
     cout<<(x==y)<<endl;
 
+    cout<<(x!=y)<<endl;
+
 
     
 }
