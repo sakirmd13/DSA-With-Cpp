@@ -6,7 +6,12 @@
 *.a
 *.dll
 *.lib
+*.ilk
+*.pdb
+*.log
 
 # Temporary files created by editors/runners
-tempCodeRunnerFile.cpp
+tempCodeRunnerFile*
+Task/*.exe
+Basics/*.exe
 .vscode/
