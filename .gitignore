@@ -1,0 +1,12 @@
+# C/C++ build artifacts
+*.exe
+*.out
+*.obj
+*.o
+*.a
+*.dll
+*.lib
+
+# Temporary files created by editors/runners
+tempCodeRunnerFile.cpp
+.vscode/
